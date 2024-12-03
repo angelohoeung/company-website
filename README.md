@@ -1,6 +1,6 @@
 # Company Website
 
-A company website made to be used as a administrative dashboard. Built using PHP, Tailwind CSS, and daisyUI. Definitely NOT secure.
+A company website made to be used as an administrative dashboard. Built using PHP, Tailwind CSS, and daisyUI. Definitely NOT secure.
 
 ## Dependencies
 
