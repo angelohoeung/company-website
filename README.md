@@ -53,6 +53,8 @@ npx tailwindcss -i ./input.css -o ./output.css --minify
 
 5. Deploy
 
+## Screenshots
+
 ![image](https://github.com/user-attachments/assets/082d9a49-d502-4f16-a42a-27e1950b7fca)
 
 ![image](https://github.com/user-attachments/assets/fafd6e3e-46bd-4a18-b967-d475c4f7157c)
